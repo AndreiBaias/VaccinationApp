@@ -58,6 +58,26 @@ Rularea testelor:
 
 
 ## Bug reporting
+Deși în timpul procesului de creație am întâmpinat mai multe bug-uri, voi prezenta aici doar câteva dintre ele, împreună cu rezolvările lor, restul putând fi observate pe [Trello](https://trello.com/b/epf7fWVB/aplicatie-vaccinare)
+
+
+* Bug:
+
+![image](https://user-images.githubusercontent.com/62658054/121892385-59435100-cd25-11eb-8d50-7134aef3cca5.png)
+* [Soluție](https://github.com/Vikcoc/spring-vaccinare/commit/141b6d87c4944fe563a24de033a5d133925af59c)
+
+* Bug:
+
+![image](https://user-images.githubusercontent.com/62658054/121893158-5301a480-cd26-11eb-9f89-a24fe7a69e52.png)
+
+* [Soluție](https://github.com/andreiec/aplicatie-vaccinare/commit/820dddd015e7923ff22b2c8db98d81d3d7e47e0f)
+
+* Bug:
+
+![image](https://user-images.githubusercontent.com/62658054/121893441-a2e06b80-cd26-11eb-9801-24f56eff7fde.png)
+
+* [Soluție](https://github.com/andreiec/aplicatie-vaccinare/commit/369b0cf7ac25277824bc27f8bb1755e881a6022c)
+
 
 ## Build tool
 
