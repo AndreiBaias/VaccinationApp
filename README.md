@@ -36,6 +36,19 @@ Mai jos sunt câteva imagini care conțin o parte din commit-uri și cateva merg
 ![image](https://user-images.githubusercontent.com/62658054/121854146-73b40500-ccfa-11eb-9b5e-e04053a6dc59.png)
 ![image](https://user-images.githubusercontent.com/62658054/121854267-9cd49580-ccfa-11eb-8bc6-a4cda16d3318.png)
 ## Teste automate
+1. Test 1
+  ![image](https://user-images.githubusercontent.com/62658054/121889101-76762080-cd21-11eb-8650-091cd66a4a52.png)
+2. Test 2
+  ![image](https://user-images.githubusercontent.com/62658054/121889159-90affe80-cd21-11eb-87a1-4283ba6f2640.png)
+
+3. Test 3
+  ![image](https://user-images.githubusercontent.com/62658054/121889179-986fa300-cd21-11eb-96b0-7222a6a7b55b.png)
+
+4. Test 4
+  ![image](https://user-images.githubusercontent.com/62658054/121889212-a291a180-cd21-11eb-9357-6c00ed010d98.png)
+
+5. Test 5
+  ![image](https://user-images.githubusercontent.com/62658054/121889235-a7eeec00-cd21-11eb-9d37-4c6ab5eab202.png)
 
 ## Bug reporting
 
