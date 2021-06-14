@@ -80,9 +80,15 @@ Deși în timpul procesului de creație am întâmpinat mai multe bug-uri, voi p
 
 
 ## Build tool
+După cum am menționat anterior, proiectul a fost împarțit în front end development și back end development. Am ales să folosim build tools pentru ambele părți ale proiectului pentru a gestiona dependențele și pentru a construi aplicația.
+- Pentru front end development a fost utilizat [Android Studio](https://developer.android.com/), iar, ca build tool, echipa noastră a decis să utilizeze [Gradle](https://gradle.org/).
+- Pentru back end development a fost utilizat IDE-ul [IntelliJ](https://www.jetbrains.com/idea/), iar, ca build tool, echipa noastră a decis să utilizeze [Maven](https://maven.apache.org/)
 
-## Refactoring
+
+## Refactoring 
+[Exemplu](https://github.com/Vikcoc/spring-vaccinare/commit/99784cb76545a21f2ffd23dff375acf2de539bec)
 
 ## Design patterns
-
+* Software architectural style : [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
+* Software design pattern : [Singleton](https://github.com/andreiec/aplicatie-vaccinare/commit/4da810682af3638f583c49dfda10a3c93aeaf14c)
 
