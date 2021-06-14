@@ -82,7 +82,7 @@ Deși în timpul procesului de creație am întâmpinat mai multe bug-uri, voi p
 ## Build tool
 După cum am menționat anterior, proiectul a fost împarțit în front end development și back end development. Am ales să folosim build tools pentru ambele părți ale proiectului pentru a gestiona dependențele și pentru a construi aplicația.
 - Pentru front end development a fost utilizat [Android Studio](https://developer.android.com/), iar, ca build tool, echipa noastră a decis să utilizeze [Gradle](https://gradle.org/).
-- Pentru back end development a fost utilizat IDE-ul [IntelliJ](https://www.jetbrains.com/idea/), iar, ca build tool, echipa noastră a decis să utilizeze [Maven](https://maven.apache.org/)
+- Pentru back end development a fost utilizat IDE-ul [IntelliJ](https://www.jetbrains.com/idea/), iar, ca build tool, echipa noastră a decis să utilizeze [Maven](https://maven.apache.org/).
 
 
 ## Refactoring 
