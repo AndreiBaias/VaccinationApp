@@ -36,19 +36,24 @@ Mai jos sunt câteva imagini care conțin o parte din commit-uri și cateva merg
 ![image](https://user-images.githubusercontent.com/62658054/121854146-73b40500-ccfa-11eb-9b5e-e04053a6dc59.png)
 ![image](https://user-images.githubusercontent.com/62658054/121854267-9cd49580-ccfa-11eb-8bc6-a4cda16d3318.png)
 ## Teste automate
-1. Test 1
+Pentru testare s-a folosit @mock pentru a simula existența centrelor de vaccinare și a tipurilor de vaccin in aceste centre.
+1. Preia toate centrele de vaccinare pe o "raza" de 0.1 de la coordonatele 0.0 si 0.0
   ![image](https://user-images.githubusercontent.com/62658054/121889101-76762080-cd21-11eb-8650-091cd66a4a52.png)
-2. Test 2
+2. Verifică dacă în jurul coordonatelor long. 1 și lat. 1 există centre de vaccinare
   ![image](https://user-images.githubusercontent.com/62658054/121889159-90affe80-cd21-11eb-87a1-4283ba6f2640.png)
 
-3. Test 3
+3. Verifică dacă adăugarea unui nou centru de vaccinare este validă și dacă prin programarea la vaccinare se modifică detaliile centrului de vaccinare
   ![image](https://user-images.githubusercontent.com/62658054/121889179-986fa300-cd21-11eb-96b0-7222a6a7b55b.png)
 
-4. Test 4
+4. Verifică dacă poate prelua informații despre un tip de vaccin care nu există și dacă întoarce eroare
   ![image](https://user-images.githubusercontent.com/62658054/121889212-a291a180-cd21-11eb-9357-6c00ed010d98.png)
 
-5. Test 5
+5. Verifică dacă un centru de vaccinare este salvat (cu succes) în baza de date
   ![image](https://user-images.githubusercontent.com/62658054/121889235-a7eeec00-cd21-11eb-9d37-4c6ab5eab202.png)
+
+Rularea testelor:
+![image](https://user-images.githubusercontent.com/62658054/121891688-73c8fa80-cd24-11eb-801a-546c5834ae33.png)
+
 
 ## Bug reporting
 
