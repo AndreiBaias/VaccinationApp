@@ -25,8 +25,14 @@ Pentru crearea backlog-ului și pentru o mai bună organizare am folosit [Trello
 ![image](https://user-images.githubusercontent.com/62658054/121852262-e5d71a80-ccf7-11eb-924b-5276ca9a2cf6.png)
 ![image](https://user-images.githubusercontent.com/62658054/121852274-ecfe2880-ccf7-11eb-966d-cf8e8bda6f46.png)
 ![image](https://user-images.githubusercontent.com/62658054/121852306-f5eefa00-ccf7-11eb-8004-c79eb9b8a239.png)
-## UML
-TBC
+## Diagrams
+* UML
+![UML](https://user-images.githubusercontent.com/62658054/121908296-8b5caf00-cd35-11eb-8399-202d31ae9ef8.png)
+
+* Database
+![image](https://user-images.githubusercontent.com/62658054/121908468-b515d600-cd35-11eb-8782-9c80f93e1195.png)
+
+
 ## Source control
 Pentru crearea aplicației au fost utilizate doua repositories diferite, unul pentru [front end development](https://github.com/andreiec/aplicatie-vaccinare) si unul pentru [back end development](https://github.com/Vikcoc/spring-vaccinare), mai apoi făcandu-se un merge final.
 ### Commits and merges
