@@ -87,6 +87,7 @@ După cum am menționat anterior, proiectul a fost împarțit în front end deve
 
 ## Refactoring 
 [Exemplu](https://github.com/Vikcoc/spring-vaccinare/commit/99784cb76545a21f2ffd23dff375acf2de539bec)
+În loc existe structura try-catch în fiecare controller, prin refactoring această structură a fost înlocuită cu un [Exception Handler](https://github.com/Vikcoc/spring-vaccinare/blob/master/src/main/java/com/vaccin/vaccin/exception/ExceptionHandlerAdvice.java) la nivel de aplicație.
 
 ## Design patterns
 * Software architectural style : [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
