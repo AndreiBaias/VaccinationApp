@@ -36,7 +36,7 @@ Mai jos sunt câteva imagini care conțin o parte din commit-uri și cateva merg
 ![image](https://user-images.githubusercontent.com/62658054/121854146-73b40500-ccfa-11eb-9b5e-e04053a6dc59.png)
 ![image](https://user-images.githubusercontent.com/62658054/121854267-9cd49580-ccfa-11eb-8bc6-a4cda16d3318.png)
 ## Teste automate
-Pentru testare s-a folosit @mock pentru a simula existența centrelor de vaccinare și a tipurilor de vaccin in aceste centre.
+Pentru testare s-a folosit @Mock pentru a simula existența centrelor de vaccinare și a tipurilor de vaccin in aceste centre. Au fost implementate 5 teste după cum urmează:
 1. Preia toate centrele de vaccinare pe o "raza" de 0.1 de la coordonatele 0.0 si 0.0
   ![image](https://user-images.githubusercontent.com/62658054/121889101-76762080-cd21-11eb-8650-091cd66a4a52.png)
 2. Verifică dacă în jurul coordonatelor long. 1 și lat. 1 există centre de vaccinare
@@ -52,6 +52,8 @@ Pentru testare s-a folosit @mock pentru a simula existența centrelor de vaccina
   ![image](https://user-images.githubusercontent.com/62658054/121889235-a7eeec00-cd21-11eb-9d37-4c6ab5eab202.png)
 
 Rularea testelor:
+
+
 ![image](https://user-images.githubusercontent.com/62658054/121891688-73c8fa80-cd24-11eb-801a-546c5834ae33.png)
 
 
