@@ -1,7 +1,7 @@
 # Aplicație vaccinare
 ## Prezentare generală
 Aplicație pentru programarea vaccinării împotriva virusului SARS-CoV-2 realizată ca proiect pentru materia "Metode de dezvoltare software", Facultatea de Matematică și Informatică, Universitatea din București.
-### Componența echipei
+## Componența echipei
 * [Băiaș Bogdan-Andrei](https://github.com/AndreiBaias) - BA + QA 
 * [Cociobanu Victor-Andrei](https://github.com/Vikcoc) - Back end developer + QA
 * [Constantinescu Andrei-Eduard](https://github.com/andreiec) - Front end developer
